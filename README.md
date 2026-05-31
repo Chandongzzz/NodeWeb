@@ -1,5 +1,3 @@
-# NodeWeb
-
 # Student Management System
 
 ## Technologies
